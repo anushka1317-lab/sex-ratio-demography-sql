@@ -46,7 +46,7 @@ This project demonstrates core beginner-to-intermediate SQL concepts, including:
 - States with higher literacy levels often show relatively improved sex ratios, although the relationship is not perfectly linear.  
 - When grouped into literacy categories, high-literacy states tend to have a more balanced gender composition on average.  
 - A small number of states clearly stand out at both the high and low ends of the sex ratio distribution.  
-- Overall population totals continue to show a slight male skew.
+- Overall population continue to show a slight male skew.
 
 ---
 
